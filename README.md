@@ -19,7 +19,6 @@ macOS 選單列截圖工具。這個 repo 放的是簽章並經 Apple 公證的�
 截圖之後，照片會從原本的位置飛到螢幕頂端的一條繩子上，用夾子夾著輕輕搖晃。
 
 - 按一下拷貝、按兩下打開、直接拖進其他 App；右鍵還能釘選、標註、擷取文字、上傳。
-- 游標停在照片上按空白鍵，在螢幕中間放大預覽（像 Finder 的快速查看），圖片照實際大小顯示；再按一次空白鍵或 Esc 關掉。
 - 滑鼠離開後繩子收回選單列上方，游標推到螢幕最上緣停一下就會再滑下來。
 - 不只截圖：拖著檔案、圖片、文字或網址靠近螢幕頂端，繩子會放下來接住；在任何地方拖著東西左右搖幾下，游標底下也會掉下一段繩子。一次拖好幾個檔案會收成一疊，拖出去時一起帶走。
 - 不喜歡的話，設定裡可以改成螢幕角落的卡片。
@@ -62,7 +61,7 @@ Shot is a menu bar screenshot tool for macOS. This repository hosts signed, Appl
 
 **Install:** download the latest `Shot-<version>.dmg` from [Releases](https://github.com/chung223/shot-releases/releases/latest), open it and drag Shot into Applications. Requires macOS 26 or later, on Apple silicon or Intel. On first launch, a welcome window helps you allow Screen Recording, which screenshots require.
 
-**The clothesline:** after you take a screenshot, it flies up to a clothesline at the top of the screen and hangs there from a clip. Click to copy, double-click to open, or drag it straight into another app. Rest the pointer on one and press Space for a large Quick Look preview at actual size; press Space or Esc again to close it. The line tucks away above the menu bar and slides back down when you push the pointer to the top edge. It also takes other things: drag files, images, text or links near the top of the screen and the line drops down to catch them, or shake anything you're dragging to drop a line right under the pointer. Several files at once become a stack. Prefer something quieter? Switch to corner cards in Settings. The clothesline idea comes from the open-source [Tendedero](https://github.com/alejandrobujan/tendedero) (MIT), reimplemented for Shot.
+**The clothesline:** after you take a screenshot, it flies up to a clothesline at the top of the screen and hangs there from a clip. Click to copy, double-click to open, or drag it straight into another app. The line tucks away above the menu bar and slides back down when you push the pointer to the top edge. It also takes other things: drag files, images, text or links near the top of the screen and the line drops down to catch them, or shake anything you're dragging to drop a line right under the pointer. Several files at once become a stack. Prefer something quieter? Switch to corner cards in Settings. The clothesline idea comes from the open-source [Tendedero](https://github.com/alejandrobujan/tendedero) (MIT), reimplemented for Shot.
 
 **Features:**
 
